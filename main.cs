@@ -1,4 +1,4 @@
-//Gürkan GÖKDEMIR 140202038
+//Gürkan GÖKDEMIR 
 
 using System;
 using System.Collections.Generic;
